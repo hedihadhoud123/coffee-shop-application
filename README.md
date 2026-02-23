@@ -1,16 +1,27 @@
-# coffe_shop
+# ☕ Coffee Shop Application
 
-A new Flutter project.
+A modern **Flutter coffee shop application** built with clean UI design and **Provider** for state management.  
+This project demonstrates best practices in Flutter app structure, navigation, and state handling.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🏠 Home page with coffee items
+- 🛒 Shopping cart functionality
+- 🏪 Shop page with product listing
+- 🔄 State management using Provider
+- 🎨 Clean and responsive UI
+- 🌍 Supports Android, iOS, Web, Windows, macOS, and Linux
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Provider (State Management)**
+
+---
+
+## 📁 Project Structure
